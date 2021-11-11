@@ -1,0 +1,25 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-size:400%;
+  text-align:center;
+}
+h2 {
+  color: tomato;
+  font-size:300%;
+  text-align:center;
+}
+h3 {
+  color: blue;
+  font-size:200%;
+  text-align:left;
+  }
+  ol{color:blue;
+  font-size:150%;
+  text-align:left;
+  }
+p {
+  color: red;
+}
